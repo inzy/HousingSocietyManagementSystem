@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 06 22:30:01 IST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014b-f007-8ad7-0000032eb278 
+on database directory E:\Others\Himalaya\Database\himalaya with class loader sun.misc.Launcher$AppClassLoader@24d46ca6 
+Loaded from file:/E:/Others/Himalaya/Himalaya/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=E:\Others\Himalaya\Himalaya
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

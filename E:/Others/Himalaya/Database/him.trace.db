@@ -1,0 +1,9 @@
+10-12 10:31:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADMINISTRATOR" not found; SQL statement:
+select username,password from administrator [42102-176]
+10-12 10:32:07 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADMINISTRATOR" not found; SQL statement:
+select username,password from administrator [42102-176]
+10-12 10:32:18 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADMINISTRATOR" not found; SQL statement:
+select username,password from administrator [42102-176]
